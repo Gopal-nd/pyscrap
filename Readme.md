@@ -1,4 +1,4 @@
-# pyhton web scraper 
+# python web scraper 
 
 ## useing this
 1. streamlit 
